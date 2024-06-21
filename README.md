@@ -2,7 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java and Golang language and some knowledge of the backend.
+- 🌱 I’m currently learning artificial intelligence.
+- 💬 Ask me about Java and Golang language and some knowledge of the backend.
 - 📫 How to reach me: qiao_shu_rui@163.com
 - ⚡ Fun fact: 
     - Draw doodles that express my feelings
